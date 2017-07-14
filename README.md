@@ -1,4 +1,4 @@
-Xbox Remote Dev Tool
+Original Xbox Remote Dev Tool
 ====================
 
 This tool will allow you remote control of an Xbox from your development system
